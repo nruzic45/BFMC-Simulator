@@ -2,7 +2,8 @@
 
 # BFMC Simulator control system implementation
 
-BFMC Sim in ROS, autonompus:go Team. Implementation of a smart lane following, sign detection using yolov5 and intelligent decision making. 
+BFMC Sim in ROS, autonompus:go Team. Implementation of a smart lane following, important feature detection using yolov5 and intelligent decision making. All the implemented nodes were tested and conected
+to an autonomous car model. 
 
 
 ## 1. Installing the tools
