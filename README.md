@@ -1,10 +1,8 @@
 <img src="https://github.com/ECC-BFMC/Simulator/blob/main/Picture1.png" width=30% height=30%>
 
-# BFMC Simulator Project
+# BFMC Simulator control system implementation
 
-The project contains the entire Gazebo simulator developed by the organizing team as well as a ROS nod network example for gathering data from the simulator and controlling the car. 
-
-By following the guide below you can get started with the simulator and start developing your project!
+BFMC Sim in ROS, autonompus:go Team. Implementation of a smart lane following, sign detection using yolov5 and intelligent decision making. 
 
 
 ## 1. Installing the tools
